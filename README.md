@@ -1,4 +1,4 @@
-# India Early Turnaround Engine
+# NSE Stocks Signal Engine
 
 A free-data research application for finding Indian companies whose fundamentals may be improving before the market fully recognises the change.
 
